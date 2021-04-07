@@ -13,14 +13,17 @@ Option for Registeration and Login into application
 
 Output 2
 Registeration page of user into Application
+
 ![image](https://user-images.githubusercontent.com/61497097/113813687-fd40d700-978d-11eb-8247-c16f379df3bd.png)
 
 Output 3
 a) Unsuccesfull Login credentials with 3 attempts message display
+
     ![image](https://user-images.githubusercontent.com/61497097/113813761-21041d00-978e-11eb-92ce-93e2d0891df2.png)
     ![image](https://user-images.githubusercontent.com/61497097/113813775-2a8d8500-978e-11eb-882e-b357d27470f7.png)
     
 b) Succesfull Login Credentials
+
    ![image](https://user-images.githubusercontent.com/61497097/113813829-4133dc00-978e-11eb-870e-21a1b6e299eb.png)
 
 Output 4
@@ -62,6 +65,7 @@ Option to add a user specified file to the application and add contents to it.
 
 Output 7
 Delete a user specified file from the existing directory list
+
 ![image](https://user-images.githubusercontent.com/61497097/113814276-01b9bf80-978f-11eb-8100-2dd9a6c99b78.png)
 
 
@@ -70,17 +74,21 @@ Output 8
 Search a user specified file from the main directory
 
 Displayed the result upon successful operation
+
 ![image](https://user-images.githubusercontent.com/61497097/113814324-17c78000-978f-11eb-9487-f59ebb64a8ab.png)
 
 Displayed the result upon unsuccessful operation
+
 ![image](https://user-images.githubusercontent.com/61497097/113814646-93c1c800-978f-11eb-8132-38cea5bc52be.png)
 
 
 Output 9
 Option to navigate back to the main context
+
 ![image](https://user-images.githubusercontent.com/61497097/113814679-a3411100-978f-11eb-83f6-8eaf36ae066b.png)
 
 option 10
 Third option to close the main application
+
 ![image](https://user-images.githubusercontent.com/61497097/113814711-afc56980-978f-11eb-89a3-840910dc9de8.png)
 
